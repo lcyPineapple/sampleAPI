@@ -1,3 +1,6 @@
+### About
+This project is a sample batch data search API. It was made in python, Flask, SQLite 
+
 ### Configuration and Installation Instructions
 If python is not installed on your computer please download python here: https://www.python.org/downloads/
 
